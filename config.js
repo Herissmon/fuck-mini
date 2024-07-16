@@ -32,5 +32,6 @@ window.Config = {
     {
       text: '已经淘汰了的网站:',
       url: '#'
+    },
   ],
 };
