@@ -6,7 +6,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur2616492-fb340e2ab082d66b5cce7748',
+    'u2616492-8131470791874b81ddcaecff',
   ],
 
   // 日志天数
